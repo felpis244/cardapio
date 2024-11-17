@@ -155,11 +155,11 @@ addressInput.addEventListener("input", function(event){
 
 checkoutBtn.addEventListener("click", function(){
 
-    const isOpen = checkRestauranteOpen();
-    if(!isOpen){
-        alert("ENCONTRAMOS-SE FECHADOS NESSE MOMENTO!")
-        return;
-    }   
+    //const isOpen = checkRestauranteOpen();
+    //if(!isOpen){
+        //alert("ENCONTRAMOS-SE FECHADOS NESSE MOMENTO!")
+        //return;
+    //}   
 
 
 
